@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 //fullTextSearch ДЛЯ ДЗ ПО ПЕРЕСЧЕТУ СУММЫ
+=======
+>>>>>>> c076ec6ef85a5d3640385745fb0f61da4336edb6
 <mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0ed4adb5-07c5-4515-93d6-a6fe0ea2857b">
   <producedTypes>
     <objectType typeId="bb1e4a6f-570d-4d06-838c-f69458fffb8f" valueTypeId="cd6af855-379a-4f02-b7a0-5c3d837513e1"/>
